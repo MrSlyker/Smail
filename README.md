@@ -4,7 +4,7 @@ free disposable email tools
 These tools are not to be misused or traded
 
 
-## Installing ( Kali Linux )
+## Installing
 
 ```
 git clone https://github.com/MrSlyker/Smail
